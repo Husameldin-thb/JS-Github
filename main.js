@@ -64,8 +64,22 @@ console.log(typeof true);
 console.log(typeof"hosam", "osman");
 console.log(typeof[12,15,20]);
 console.log(typeof false);
-window.alert("hallo hosam");
+//window.alert("hallo hosam");
 console.table({firstname:"John", lastname:"Doe"});
 
 
 // das ist nur test
+//let zakah=window.prompt("Zakah")
+
+//console.log( 0.025 * zakah + (" sd")   )
+//console.table( {firstname: " Husman,", lastname: " Osman"})
+
+
+console.log(Number.MAX_SAFE_INTEGER);
+let x = 5 
+console.log(typeof x. toString())
+console.log(typeof (200). toString())
+
+let objects= [1, 2, 3, [4, 5, 6, [7, 8 , 9]]];
+
+console.log ( objects[3] [3] [2]);
